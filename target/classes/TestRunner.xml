@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1"  verbose="1" >
+  <test name="WikiPageTest" >
+    <classes>
+       <class name="com.qa.lesson2.Scripts.WikiHomePageTest" />
+    </classes>
+  </test>
+   <test name="SearchPageTest" >
+    <classes>
+       <class name="com.qa.lesson2.Scripts.WikiSearchPageTest" />
+       
+    </classes>
+  </test>
+  
+     <test name="LoginPage" >
+    <classes>
+       <class name="com.qa.lesson2.Scripts.WikiLoginPageTest" />
+       
+    </classes>
+  </test>
+
+  </suite>

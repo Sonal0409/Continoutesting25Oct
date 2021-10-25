@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-25T12:03:46Z" name="Default suite" finished-at="2021-10-25T12:04:08Z" duration-ms="22048">
+    <groups>
+    </groups>
+    <test started-at="2021-10-25T12:03:46Z" name="Default test" finished-at="2021-10-25T12:04:08Z" duration-ms="22048">
+      <class name="com.qa.lesson2.Scripts.WikiLoginPageTest">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.qa.lesson2.Scripts.WikiLoginPageTest@a37aefe]" started-at="2021-10-25T12:03:46Z" name="openbrowser" finished-at="2021-10-25T12:03:50Z" duration-ms="4171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="HomepageTest()[pri:0, instance:com.qa.lesson2.Scripts.WikiLoginPageTest@a37aefe]" started-at="2021-10-25T12:03:50Z" name="HomepageTest" finished-at="2021-10-25T12:03:55Z" duration-ms="4913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.qa.lesson2.Scripts.WikiLoginPageTest@a37aefe]" started-at="2021-10-25T12:03:55Z" name="loginTest" finished-at="2021-10-25T12:04:00Z" duration-ms="5399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="searchpageTest()[pri:0, instance:com.qa.lesson2.Scripts.WikiLoginPageTest@a37aefe]" started-at="2021-10-25T12:04:01Z" name="searchpageTest" finished-at="2021-10-25T12:04:08Z" duration-ms="7515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchpageTest -->
+      </class> <!-- com.qa.lesson2.Scripts.WikiLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
