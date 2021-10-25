@@ -19,5 +19,11 @@
        
     </classes>
   </test>
+     <test name="titlePage" >
+    <classes>
+       <class name="com.qa.lesson2.Scripts.WikipageTitle" />
+       
+    </classes>
+  </test>
 
   </suite>
